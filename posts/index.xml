@@ -41,6 +41,4 @@
 &lt;/ul>
 &lt;h1 id="time-complexity">Time Complexity&lt;/h1>
 &lt;p>Let &lt;code>T&lt;/code> be the target and &lt;code>N&lt;/code> be the number of candidates. In the worst case, the time complexity is exponential, approximately &lt;code>O(N^T)&lt;/code>, due to the branching factor of the recursive calls.
-Sorting the candidates first and pruning paths early can significantly reduce redundant computations.&lt;/p></description></item><item><title>Make a Test Framework [1/1]</title><link>https://ntwlab.com/posts/qa/auto/make-a-test-framework-1/</link><pubDate>Thu, 01 May 2025 12:34:56 +0800</pubDate><guid>https://ntwlab.com/posts/qa/auto/make-a-test-framework-1/</guid><description>&lt;h1 id="background">Background&lt;/h1>
-&lt;p>There was a side project within our team focused on designing a new test framework that would allow others to easily add new test cases without needing to understand the underlying workings of the framework. The framework was also intended to be deployable across various platforms without requiring any toolchain setup in advance.&lt;/p>
-&lt;p>Some compiled languages came to mind—Go in particular. Thanks to its static compilation and straightforward build process, we could deploy binaries to almost any platform in our company. It also happened to be my first project using Go, which made the experience even more exciting.&lt;/p></description></item></channel></rss>
+Sorting the candidates first and pruning paths early can significantly reduce redundant computations.&lt;/p></description></item></channel></rss>
